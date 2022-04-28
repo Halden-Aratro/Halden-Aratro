@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @Halden-Aratro
 - 👀 I’m interested in web development and project management.
 - 🌱 I’m currently learning the building blocs of web development.
 - 💞️ I’m looking to collaborate on beginners' projects in dev and/or on the writing (as in books and essays) side of caritative projects.
